@@ -8,6 +8,3 @@ We introduce the neologism “under-mapped” to denote underexplored gradations
 - _Under-served_: cartographic content corresponds with a lack of affluence and political influence of corresponding communities;
 - _Under-valued_: cartographic content prioritizes legibility in service of state surveillance and capitalist resource extraction;
 - _Under-engaged_: cartographic content relies on outsider observations without engaging in collaborative knowledge creation.  
-![header](./images/header.jpg)
-![](./images/original.jpg)  
-![](https://gis.stanford.edu/)
