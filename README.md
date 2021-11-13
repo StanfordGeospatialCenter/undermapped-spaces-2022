@@ -2,7 +2,7 @@ https://stanfordgeospatialcenter.github.io/undermapped-spaces-2022/
 
 ![header](./images/header.jpg)
 
-# Under-mapped Spaces: New Methods and Tools for Critical Storytelling
+# Under-Mapped Spaces: New Methods and Tools for Critical Storytelling
 
 In this five-day, intensive interdisciplinary workshop for emerging scholars, we aim to promote exploration of Stanford’s cartographical collections and test the utility of digital tools in the creation of compelling, accessible narratives of “under-mapped” places. The workshop will be held February 28 to March 4, 2022 and engage at least twelve late-stage graduate students and recent PhDs.
 
