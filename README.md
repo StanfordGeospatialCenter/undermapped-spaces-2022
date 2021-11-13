@@ -1,5 +1,3 @@
-https://stanfordgeospatialcenter.github.io/undermapped-spaces-2022/
-
 ![header](./images/header.jpg)
 
 # Under-Mapped Spaces: New Methods and Tools for Critical Storytelling
