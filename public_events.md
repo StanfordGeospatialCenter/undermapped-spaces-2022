@@ -1,4 +1,5 @@
-### Public Lecture 1    
+# Public Lecture Series
+## Public Lecture 1    
 **Pancakes & Silver: Historic Map Reading, Data Extraction**  
 Monday, February 28, 2022  
 4:45 pm – 6:00 pm PST  
@@ -9,7 +10,7 @@ Pancakes & Silver, the 2019 ArcGIS StoryMap of the Year, is a demonstration in h
 
 [Register for 'Pancakes & Silver'](https://stanford.zoom.us/webinar/register/WN_bObnyi9qT5-THHyQPe6ysg)
 
-### Public Lecture 2  
+## Public Lecture 2  
 **"If Englande crie out, this Norumbega offreth the remedie": American Imaginaries after Cartography**  
 Tuesday, March 1, 2022  
 4:45 pm – 6:00 pm PST  
@@ -20,7 +21,7 @@ Richard Hakluyt's early modern propagandizing for English colonization in North 
 
 [Register for 'American Imaginaries after Cartography'](https://stanford.zoom.us/webinar/register/WN_TwwthxHxS56zn1-I1t9EeQ)
 
-### Public Lecture 3  
+## Public Lecture 3  
 **Community ownership and open data: where is the balance?**  
 Wednesday, March 2, 2022  
 4:45 pm – 6:00 pm  
@@ -31,7 +32,7 @@ Open data is integral to the work of scholarship, but openness can easily turn i
 
 [Register for 'Community ownership and open data'](https://stanford.zoom.us/webinar/register/WN_oMXFRxJSSj-3GxJf-zfuKQ)
 
-### Public Lecture 4  
+## Public Lecture 4  
 **Mapping the Gap: Intersections, Counter-Surveillance...**  
 Thursday, March 3, 2022  
 4:45 pm – 6:00 pm  
