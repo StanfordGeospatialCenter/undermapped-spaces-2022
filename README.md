@@ -4,7 +4,7 @@
 - [Public Lectures](public_events.md)  
 
 ## Public Lecture Series
-All events below are free and open to the public. See links below for more information on each talk and Zoom registration links
+All events below are free and open to the public. Follow links for more information on each talk and Zoom registration links
 
 [Pancakes & Silver: Historic Map Reading, Data Extraction](public_events.md#public-lecture-1)  
 Monday, February 28, 2022  
