@@ -17,11 +17,9 @@ Pancakes & Silver, the 2019 ArcGIS StoryMap of the Year, is a demonstration in h
 
 [Register for 'Pancakes & Silver'](https://stanford.zoom.us/webinar/register/WN_bObnyi9qT5-THHyQPe6ysg)
 
-### 2. American Imaginaries after Cartography
+### 2. "If Englande crie out, this Norumbega offreth the remedie": American Imaginaries after Cartography
 Tuesday, March 1, 2022
 4:45 pm – 6:00 pm PST
-
-_"If Englande crie out, this Norumbega offreth the remedie": American Imaginaries after Cartography_
 
 Richard Hakluyt's early modern propagandizing for English colonization in North America depended on the availability of printed matter: maps, narratives, and images. Using the 2018 French historical graphic novel Florida by Jean Dytar and its depiction of Hakluyt, Sá Pereira considers the imaginary that the novel's geographical history creates. Yet in 2022, after the various spatial turns, can we even speak of an American imaginary outside of the rigid forms of the cartographic ideal?
 
