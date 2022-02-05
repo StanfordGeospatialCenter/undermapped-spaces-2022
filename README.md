@@ -1,7 +1,7 @@
 # Under-Mapped Spaces: New Methods and Tools for Critical Storytelling
 
-- [Description](##--Description)  
-- [Public Lectures](##-public-lecture-series)  
+- [Description](#description)  
+- [Public Lectures](#public-lecture-series)  
 
 ## Description
 Even as scholars move to redress white supremacy, we lag in engagement with the histories of “under-mapped” spaces. This is a product of historical conditions and contemporary inequalities in the global production of knowledge. This workshop presents the opportunity for diverse students from different disciplines to critically consider the politics of cartographic invention and engage in urgent discussions that link historical practice with digital development. Sessions will also address the pedagogical implications of digital cartography and best practices for incorporating critical storytelling with maps in classrooms and public spaces.
