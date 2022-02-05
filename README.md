@@ -14,7 +14,7 @@ Monday, February 28, 2022
 Tuesday, March 1, 2022   
 4:45 pm – 6:00 pm PST  
 
-[Community ownership and open data: where is the balance?](public_events.md#public-lecture-3)
+[Community ownership and open data: where is the balance?](public_events.md#public-lecture-3)  
 Wednesday, March 2, 2022  
 4:45 pm – 6:00 pm  
 
