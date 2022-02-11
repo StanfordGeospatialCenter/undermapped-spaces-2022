@@ -2,6 +2,7 @@
 
 - [Workshop Description](workshop_description.md)  
 - [Public Lectures](public_events.md)  
+- [Partner Map Collections](collections.md)  
 
 ## Public Lecture Series
 All events below are free and open to the public. Follow links for more information on each talk and Zoom registration links
