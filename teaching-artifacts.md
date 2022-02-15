@@ -35,8 +35,7 @@ Your should submit your artifact and brief write-up on the last day of the works
 
 ## Examples  
 We encourage you to check out some of the examples and resources below.  
-
-
+2
 [Progressive Pedagogies for Humanities Research and Citation Vol. 1 (2021)](https://journals.library.columbia.edu/index.php/citationalpractice/issue/view/782)
 
 Marisa Parham's curated collection of artifacts related to the keyword [Hashtag](https://digitalpedagogy.hcommons.org/keyword/Hashtag). Parham's collection is part of a larger collection of resources: [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/). 
