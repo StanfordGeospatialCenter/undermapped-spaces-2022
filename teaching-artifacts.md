@@ -29,7 +29,7 @@ As part of our commitment to [openness](https://digitalpedagogy.hcommons.org/int
 ## Projected Timeline
 Over the course of the week, there will be designated times for your to share your ideas in small groups and provide feedback to one another. 
 
-We know there is only so muh one can do in a week, so your artifact could be more of a proposal or description of a resource you'd like to develop down the road.  
+We know there is only so much one can do in a week, so your artifact could be more of a proposal or description of a resource you'd like to develop down the road.  
 
 Your should submit your artifact and brief write-up on the last day of the workshop (Friday, Mar 4). Specific instructions for submission will follow.
 
