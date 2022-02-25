@@ -6,7 +6,7 @@
 
 **Riley Brett-Roche** is a PhD candidate in modern Chinese history at Stanford University. Her dissertation, _Scavenged State: Archives and the Making of Modern China_, traces the history of collection building in the 19th and 20th centuries. Other interests include the history of failed states, transitional justice, and literary culture in East Asia.
 
-**Kelsey J. Utne**  is a prison educator, digital humanities scholar, and 2021-22 ACLS Dissertation Completion Fellow in Modern South Asian History at Cornell University. She is finishing her dissertation, _Corpse Politics: Disposal and Commemoration of the Indian Interwar Dead_. You can follow her on Twitter at [@kelseyutne](https://twitter.com/KelseyUtne).
+**Kelsey J. Utne**  is a prison educator, digital humanities scholar, and 2021-22 ACLS Dissertation Completion Fellow in Modern South Asian History at Cornell University. She is finishing her dissertation, _Corpse Politics: Disposal and Commemoration of the Indian Interwar Dead_. Follow her on Twitter at [@kelseyutne](https://twitter.com/KelseyUtne).
 
 ## Workshop Leaders
 
@@ -14,13 +14,13 @@
 
 **[Andria Olson](https://library.stanford.edu/people/andolson)** is the map librarian at Branner Earth Sciences Library & Map Collections at Stanford University. She develops, oversees, and contributes to strategies for original and copy cataloging and digitization of cartographic and geospatial materials.
 
-**Majd Al-Shihabi** is a technologist and urban planner, and a PhD student in the geography department at the University of Toronto. Majd’s current research is on the use of agent-based modelling to address the wicked problem of the housing crisis, and is the co-founder of [Palestine Open Maps](https://palopenmaps.org/).
+**[Majd Al-Shihabi](https://majdal.cc/)** is a technologist and urban planner, and a PhD student in the geography department at the University of Toronto. Majd’s current research is on the use of agent-based modelling to address the wicked problem of the housing crisis, and is the co-founder of [Palestine Open Maps](https://palopenmaps.org/). Follow him on Twitter at [@majdal](https://twitter.com/majdal)
 
 **[Moacir P. de Sá Pereira](https://moacir.com/)** is the Research Data Librarian at Columbia University Libraries. A scholar of literature and space, he previously taught at New York University, Vilnius Gediminas Technical University, and l'École nationale des chartes.
 
 ## Curated Conversationalists  
 
-**Belle Lipton** is a geospatial data librarian. She is well-versed in data management, and the intricacies of geospatial formats. She works with researchers to curate GIS datasets, and has a strong background in both traditional archival practices as well as humanist and subjective approaches to data science. She loves questioning the history of knowledge production, and believes this type of exploration adds meaning to our work today.  
+**[Belle Lipton](https://dssg.fas.harvard.edu/person/belle-lipton/)** is a geospatial data librarian. She is well-versed in data management, and the intricacies of geospatial formats. She works with researchers to curate GIS datasets, and has a strong background in both traditional archival practices as well as humanist and subjective approaches to data science. She loves questioning the history of knowledge production, and believes this type of exploration adds meaning to our work today.  
 
 Check out her guide for creating your own metadata [DIY-metadata](https://github.com/HarvardMapCollection/DIY-metadata)
 
