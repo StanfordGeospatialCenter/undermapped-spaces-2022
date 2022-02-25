@@ -2,6 +2,7 @@
 
 - [Workshop Description](workshop_description.md)  
 - [Public Lectures](public_events.md)  
+- [Contributors](bios.md)
 - [Partner Map Collections](collections.md)  
 
 ## Public Lecture Series

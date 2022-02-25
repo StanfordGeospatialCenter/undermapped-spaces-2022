@@ -1,4 +1,4 @@
-# About
+# Contributors
 
 ## Organizing Team  
 
@@ -30,7 +30,7 @@ Check out her guide for creating your own metadata [DIY-metadata](https://github
 
 **Yoni Nachmany** is an R&D Engineer at The New York Times, where he works on digitizing archival articles and photographs with experimental techniques. Previously, he processed and visualized satellite and aerial imagery as a geospatial software engineer at Mapbox. He participated in the Data Science for Social Good Fellowship after graduating from the University of Pennsylvania with a Master's in Data Science. You can see his latest data explorations and side projects on Twitter at [@yoninachmany](https://twitter.com/yoninachmany)
 
-## Contributors
+## Additional Contributors
 
 **[David Medeiros](https://library.stanford.edu/people/davidmed)** is the GIS Reference and Instruction Specialist for the Stanford Geospatial Center at Branner Earth Sciences Library. His primary role is facilitating the use and understanding of GIS software, and the application of geospatial science, to help patrons with their research. 
 
