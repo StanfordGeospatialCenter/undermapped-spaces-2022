@@ -8,3 +8,6 @@
 - Register for the [public lectures](public_events.md)    
 - Join Slack  
 - Make your chosen map your Zoom background
+
+Go to [day 1](day1.md)
+Return to [road map](road_map.md)

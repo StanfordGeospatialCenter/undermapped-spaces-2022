@@ -1,6 +1,6 @@
 # Day 2  
 
-_Make sure you complete [this pre-work](day0.md) before today's session_
+_Reminder: did you complete the [day 0 pre-work](day0.md) before today's session?_
 
 | Time | Session | 
 | --- | --- |
