@@ -10,6 +10,4 @@
 - Join Slack  
 - Make your chosen map your Zoom background
 
-go to [day 1](day1.md)  
-
-return to [road map](road_map.md)
+go to [day 1](day1.md)  |  return to [road map](road_map.md)
