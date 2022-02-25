@@ -28,7 +28,7 @@ Check out her guide for creating your own metadata [DIY-metadata](https://github
 
 **[Stace D Maples](https://library.stanford.edu/people/maples)** is the Geospatial Manager at The Stanford Geospatial Center. He provides support and collaboration to the Stanford research community in capturing and making sense of the “where” of their work.  An archaeologist by training and a technologist by temperament, he is interested in all aspects of mapping, from the aerial imaging of archaeological sites using kites and balloons, to the development of platforms for the gathering of volunteer geographic information.
 
-**Yoni Nachmany** is an R&D Engineer at The New York Times, where he works on digitizing archival articles and photographs with experimental techniques. Previously, he processed and visualized satellite and aerial imagery as a geospatial software engineer at Mapbox. He participated in the Data Science for Social Good Fellowship after graduating from the University of Pennsylvania with a Master's in Data Science. You can see his latest data explorations and side projects on Twitter at [@yoninachmany](https://twitter.com/yoninachmany)
+**[Yoni Nachmany](https://www.linkedin.com/in/yoninachmany/)** is an R&D Engineer at The New York Times, where he works on digitizing archival articles and photographs with experimental techniques. Previously, he processed and visualized satellite and aerial imagery as a geospatial software engineer at Mapbox. He participated in the Data Science for Social Good Fellowship after graduating from the University of Pennsylvania with a Master's in Data Science. You can see his latest data explorations and side projects on Twitter at [@yoninachmany](https://twitter.com/yoninachmany)
 
 ## Additional Contributors
 
