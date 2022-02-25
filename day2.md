@@ -2,7 +2,7 @@
 
 _Reminder: did you complete the [day 0 pre-work](day0.md) before today's session?_
 
-| Time | Session | 
+| Time[^1] | Session | 
 | --- | --- |
 | 9am-10:30am | Curated Conversation: "Creating Usable Data" with Belle Lipton |   
 | 10:30-11am   | break    |
@@ -12,4 +12,6 @@ _Reminder: did you complete the [day 0 pre-work](day0.md) before today's session
 | 3:15pm-5pm   | break  |  
 | 5pm-6pm  | Public Lecture: [“If Englande crie out, this Norumbega offreth the remedie”: American Imaginaries after Cartography](public_events.md#public-lecture-2)  by Moacir P. de Sá Pereira |
 
-Return to [road map](road_map.md)
+return to [road map](road_map.md)
+
+[^1]: All times given in Pacific Standard (GMT -8)
