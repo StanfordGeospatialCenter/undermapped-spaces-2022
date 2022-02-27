@@ -13,7 +13,7 @@ What dilemmas, challenges, or opportunities does your map offer?
 Share your goals for the workshop with your group.  
 
 ## 3. Brainstorming    
-If you haven’t yet had the chance to read about [Teaching Artifacts](https://stanfordgeospatialcenter.github.io/undermapped-spaces-2022/teaching-artifacts.html) on the Github page, check out that page now.  
+If you haven’t yet had the chance to read about [Teaching Artifacts](../teaching-artifacts.md) on the Github page, check out that page now.  
 
 As a brainstorming exercise, reflect on the problem/dilemma/challenge you’ve identified related to your maps.   
 - What teaching/learning opportunities does this present?  
