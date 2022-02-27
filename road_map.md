@@ -11,3 +11,4 @@
 ## Quick Reference  
 [Teaching Artifacts](teaching-artifacts.md)  
 [Public Lectures](public_events.md)
+[Contributors](bios.md)
