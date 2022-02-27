@@ -7,7 +7,7 @@ _Reminder: did you prepare answers to [these questions](workshop_materials/works
 | --- | --- |
 | 9am-10:30am | Welcome (with David Rumsey himself!)| 
 | 11am-12pm   | [A beginners guide to web mapping: vocabulary, tools and possibilities](workshop_materials/workshop1.md) with Alex Gil |
-| 12pm-1pm  | Small Groups  |   |
+| 12pm-1pm  | [Small Groups](small_groups/small_group1.md)  |   |
 | 1pm-4pm |  Tutorial #1 | |
 | 5pm-6pm  | [Pancakes & Silver: Historic Map Reading, Data Extraction](public_events.md#public-lecture-1) by Andria Olson |
 
