@@ -8,7 +8,7 @@
 | 12:30pm-1pm   | break   |
 | 1pm-4pm   | Tutorial 4 |
 | 4pm-5pm   | break |
-| 5pm-6pm   | ["Mapping the Gap: Intersections, Counter-Surveillance..."](public_events.md#public-lecture-4) by Alex Gil   |
+| 5pm-6pm   | [Mapping the Gap: Intersections, Counter-Surveillance...](public_events.md#public-lecture-4) by Alex Gil   |
 
 [day 0](day0.md) | [day 1](day1.md) | [day 2](day2.md) | [day 3](day3.md) | day 4 | [day 5](day5.md)  
 
