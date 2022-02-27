@@ -7,3 +7,6 @@
 Day 3  
 Day 4  
 Day 5  
+
+## References  
+[Teaching Artifacts](teaching-artifacts.md)  
