@@ -4,7 +4,7 @@
 | --- | --- |
 | 9am-10:30am   | [Historical map ontologies through Palestine Open Maps](workshop_materials/workshop4.md) with Majd Al-Shihabi  |
 | 10:30am-11am   | break  |
-| 11am-12pm  | Dilemmas of Digitization with Stace D. Maples |
+| 11am-12pm  | [Dilemmas of Digitization](curated_convos/cc3.md) with Stace D. Maples |
 | 12:30pm-1pm   | break   |
 | 1pm-4pm   | Tutorial 4 |
 | 4pm-5pm   | break |
