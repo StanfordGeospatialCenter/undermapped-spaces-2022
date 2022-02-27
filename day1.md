@@ -11,7 +11,9 @@ _Reminder: did you prepare answers to [these questions](workshop_materials/works
 | 1pm-4pm |  Tutorial #1 | |
 | 5pm-6pm  | Public Lecture: [Pancakes & Silver: Historic Map Reading, Data Extraction](public_events.md#public-lecture-1)  by Andria Olson |
 
-go to [day 2](day2.md)  |  return to [road map](road_map.md)
+bac to [day 0](day0,md) | forward [day 2](day2.md)  
+
+return to [road map](road_map.md)
 
 
 [^1]: All times given in Pacific Standard (GMT -8)
