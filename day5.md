@@ -3,7 +3,7 @@
 | Time[^1] | Session | 
 | --- | --- |
 | 9am-10am   | Small Groups   |
-| 10am-11:30am   | "Going Public" with Yoni Nachmany  |
+| 10am-11:30am   | [Going Public](curated_convos/cc4.md) with Yoni Nachmany  |
 | 11:30am-11:45am   | break   |
 | 11:45am-12:30pm   | Conclusion |
 
