@@ -9,7 +9,7 @@ _Reminder: did you prepare answers to [these questions](workshop_materials/works
 | 11am-12pm   | "A beginners guide to web mapping: vocabulary, tools and possibilities" with Alex Gil |
 | 12pm-1pm  | Small Groups  |   |
 | 1pm-4pm |  Tutorial #1 | |
-| 5pm-6pm  | Public Lecture: [Pancakes & Silver: Historic Map Reading, Data Extraction](public_events.md#public-lecture-1)  by Andria Olson |
+| 5pm-6pm  | [Pancakes & Silver: Historic Map Reading, Data Extraction](public_events.md#public-lecture-1) by Andria Olson |
 
 [day 0](day0.md) | day 1 | [day 2](day2.md) | [day 3](day3.md) | [day 4](day4.md) | [day 5](day5.md)  
 
