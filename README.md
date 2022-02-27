@@ -1,12 +1,13 @@
 # Under-Mapped Spaces: New Methods and Tools for Critical Storytelling
 
-- [Workshop Description](workshop_description.md)  
+- **[Road Map](road_map.md)**
 - [Public Lectures](public_events.md)  
+- [Workshop Description](workshop_description.md)  
 - [Contributors](bios.md)  
 - [Partner Map Collections](collections.md)  
 
 ## Public Lecture Series
-All events below are free and open to the public. Follow links for more information on each talk and Zoom registration links
+All events below are free and open to the public. Follow links for more information on each talk and Zoom registration.
 
 [Pancakes & Silver: Historic Map Reading, Data Extraction](public_events.md#public-lecture-1)  
 Monday, February 28, 2022  
