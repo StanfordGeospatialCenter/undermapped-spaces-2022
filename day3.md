@@ -2,7 +2,7 @@
 
 | Time[^1] | Session | 
 | --- | --- |
-| 9am-10:30am | Curated Conversation: "Why (Not) a Map?" with Jess Cohen-Tanugi |   
+| 9am-10:30am | [Why (Not) a Map?](curated_convos/cc2.md) with Jess Cohen-Tanugi |   
 | 10:30-11am   | break    |
 | 11am-12pm   | [Anti-Rubbersheeting: Defining Your Map’s Internal Coordinate System](workshop_materials/workshop3.md) with Moacir P. de Sá Pereira |
 | 12-12:15pm  | Small Groups  |   
