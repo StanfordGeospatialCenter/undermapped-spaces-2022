@@ -10,3 +10,4 @@ Day 5
 
 ## References  
 [Teaching Artifacts](teaching-artifacts.md)  
+[Public Lectures](public_events.md)
