@@ -10,4 +10,8 @@
 - Join Slack  
 - Make your chosen map your Zoom background
 
-go to [day 1](day1.md)  |  return to [road map](road_map.md)
+day 0 | [day 1](day1.md) | [day 2](day2.md) | [day 3](day3.md) | [day 4](day4.md) | [day 5](day5.md)  
+
+return to [road map](road_map.md)
+
+[^1]: All times given in Pacific Standard (GMT -8)
