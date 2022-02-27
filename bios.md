@@ -34,4 +34,8 @@ Check out her guide for creating your own metadata [DIY-metadata](https://github
 
 **[David Medeiros](https://library.stanford.edu/people/davidmed)** is the GIS Reference and Instruction Specialist for the Stanford Geospatial Center at Branner Earth Sciences Library. His primary role is facilitating the use and understanding of GIS software, and the application of geospatial science, to help patrons with their research. 
 
-**[G. Salim Mohammed](https://library.stanford.edu/people/gsalim)** heads the [David Rumsey Map Center](https://library.stanford.edu/rumsey) and curates the digital and rare maps collections housed within the Center. Additionally, he oversees/monitors the map content that goes to the Digital Library Systems and Services (DLSS) scanning laboratories.
+**[G. Salim Mohammed](https://library.stanford.edu/people/gsalim)** heads the [David Rumsey Map Center](https://library.stanford.edu/rumsey) and curates the digital and rare maps collections housed within the Center. Additionally, he oversees/monitors the map content that goes to the Digital Library Systems and Services (DLSS) scanning laboratories.  
+
+**[Michelle Thomas](https://www.esri.com/arcgis-blog/author/mthomas/)** is a web producer and community manager on the Esri's StoryMaps team. Michelle previously created strategic storytelling campaigns to promote public land management and conservation at the Bureau of Land Management within the U.S. Interior Department and U.S. Department of Agriculture. 
+
+**[Ross Donihue](https://www.esri.com/arcgis-blog/author/rdonihue/)** is a cartographer and product engineer on Esri's StoryMaps team. He uses place-based storytelling to engage users through beautiful, informative, and inspiring cartography. When he's not making maps he's likely carving a spoon, making photos, or dreaming of mountains and fermentation.
