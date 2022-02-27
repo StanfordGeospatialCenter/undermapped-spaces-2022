@@ -8,6 +8,6 @@
 [Day 4](day4.md)  
 [Day 5](day5.md)  
 
-## References  
+## Quick Reference  
 [Teaching Artifacts](teaching-artifacts.md)  
 [Public Lectures](public_events.md)
