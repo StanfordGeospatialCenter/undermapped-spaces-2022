@@ -1,4 +1,7 @@
 # Small Group Instructions  
+
+_We are running a little behind schedule, so please continue these conversations later on today!_
+
 ## 1. Introduce yourself 
 
 Let folks know who and where you are, what you do, and your pronouns.  
@@ -24,6 +27,8 @@ Together, generate ideas about potential teaching artifacts you might create. Ov
 
 ## 4. Group communication and support  
 How would your group like to communicate during the week? Co-working on Zoom? Slack? Email? WhatsApp? Google Docs?
+
+
  
 
 [day 0](../day0.md) | [day 1](../day1.md) | [day 2](../day2.md) | [day 3](../day3.md) | [day 4](../day4.md) | [day 5](../day5.md)  
