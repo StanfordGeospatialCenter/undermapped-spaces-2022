@@ -1,6 +1,6 @@
 # Small Group Instructions  
 
-_We are running a little behind schedule, so please continue these conversations later on today!_
+_We are running a little behind schedule, so please continue these conversations later on today. Try to find a time when you can meet up on Zoom if possible. If you need a Zoom room set up once you have a time, just let us know!_
 
 ## 1. Introduce yourself 
 
