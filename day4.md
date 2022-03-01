@@ -6,7 +6,7 @@
 | 10:30am-11am   | break  |
 | 11am-12:30pm  | [Dilemmas of Digitization](curated_convos/cc3.md) with Stace D. Maples |
 | 12:30pm-1pm   | break   |
-| 1pm-4pm   | Tutorial 4 |
+| 1pm-4pm   | [Tutorial/Co-working](coworking.md) |
 | 4pm-5pm   | break |
 | 5pm-6pm   | [Mapping the Gap: Intersections, Counter-Surveillance...](public_events.md#public-lecture-4) by Alex Gil   |
 
