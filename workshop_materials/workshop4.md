@@ -78,8 +78,9 @@ We'll make a map of the road network. Roads are always lines, so uncheck the mul
 <!-- what about values? -->
 Value: highway
 
-Click classify (at the bottom), then click apply. Your map will show each type of road in a different colour, randomly selected. You can edit the colour and the style of the line by double clicking on the respective line in its own category and modifying its parameters. 
+2. Click classify (at the bottom), then click apply. Your map will show each type of road in a different colour, randomly selected. You can edit the colour and the style of the line by double clicking on the respective line in its own category and modifying its parameters. 
 
+<!-- maybe have a concluding couple of sentences on what people have learned/might try next? -->
 
 
 ------
