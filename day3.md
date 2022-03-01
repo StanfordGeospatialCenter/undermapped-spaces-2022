@@ -8,7 +8,7 @@
 | 10:30-11am   | break    |
 | 11am-12pm   | [Anti-Rubbersheeting: Defining Your Map’s Internal Coordinate System](workshop_materials/workshop3.md) with Moacir P. de Sá Pereira[^3] |
 | 12-12:15pm  | [Small Groups](small_groups/small_group2.md)  |   
-| 12:15pm-3:15pm |  [Tutorial/Co-working](co-coworking.md) | 
+| 12:15pm-3:15pm |  [Tutorial/Co-working](coworking.md) | 
 | 3:15pm-5pm   | break  |  
 | 5pm-6pm  | [Community ownership and open data: where is the balance?](public_events.md#public-lecture-3) by Majd Al-Shihabi |
 | Pre-work for tomorrow   | Download and install [JOSM](https://josm.openstreetmap.de/) and [QGIS](https://qgis.org/en/site/forusers/download.html). _If you can, find an external/physical computer mouse instead of the one on your laptop_ |
