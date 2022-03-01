@@ -17,64 +17,68 @@ We will use [JOSM](https://josm.openstreetmap.de/), for two reasons:
 
 
 
-**STEP 0:** 
+### STEP 0: 
+**Set Up**  
 
-Start by downloading [JOSM](https://josm.openstreetmap.de/) and [QGIS](https://qgis.org/en/site/forusers/download.html) 
+1. Start by downloading [JOSM](https://josm.openstreetmap.de/) and [QGIS](https://qgis.org/en/site/forusers/download.html) 
 
-Get a physical mouse. It *really* helps. 
+2. Get a physical mouse if you can. It *really* helps. 
  
-**STEP 1:** Add PalOpenMaps map tiles and data source
+### STEP 1:  
+**Add PalOpenMaps map tiles and data source**  
 
-Open JOSM, and in the main menu, click Imagery > Imagery preferences 
+1. Open JOSM  
+2. In the main menu, click Imagery > Imagery preferences   
+3. Click on + TMS button to add a new tile map service  
 
-Click on + TMS button to add a new tile map service
+<!-- is this information they should be pasting into fields? -->
+URL: `https://palopenmaps.org/tiles/pal20k-1940s/{z}/{x}/{y}.jpg`  
+Name: Palestine Open Maps 20k    
 
+4. IN THE SAME PREFERENCES DIALOGUE BOX, go to the "connection settings for the OSM server"  
+5. In the OSM server url field, enter: `http://data.palopenmaps.org/api`  
+6. Click OK  
 
-URL: `https://palopenmaps.org/tiles/pal20k-1940s/{z}/{x}/{y}.jpg`
+### STEP 2  
+**Download the data**  
 
-Name: Palestine Open Maps 20k
+1. In the top ribbon bar, click on the green down arrow to download data.  
+2. Draw a bounding box around Haifa in Palestine to download PalOpenMaps data for that region.   
+3. The data is now downloaded on your laptop, and you can see it in the layers panel on the right!  
+4. From the Imagery menu item, select Palestine Open Maps 20k to see the base map. Feel free to switch to satellite imagery from today to compare and contrast the data  
 
+### STEP 3  
+**Inspect some data**  
 
-IN THE SAME PREFERENCES DIALOGUE BOX, go to the "connection settings for the OSM server"
+1. Click around the features on the map, play with them 
+2. What tags do they have?
 
-In the OSM server url field, use: `http://data.palopenmaps.org/api`
+### STEP 4  
+**Export the data**  
 
-Press OK 
+1. In the layers panel to the right, you will see a layer titled "Data layer 1" 
+2. Right click > save as, and save the data to a specific location on your computer. Make a note of where you saved this file!  
 
-**STEP 2**: Download the data
+### STEP 5  
+**Open the data in QGIS**  
+1. Open QGIS and start a new project
+2. Drag and drop the file you just exported (see prior step) into the project.
+3. You will get a dialogue box asking you which type of data would you like to import.  
+4. Select all the types and click OK.
+5. Zoom in, pan around and see what data you have. It'll look a bit ugly, because everything has the same symbology. 
 
-In the top ribbon bar, click on the green down arrow to download data. 
-
-Draw a bounding box around Haifa in Palestine to download PalOpenMaps data for that region. 
-
-The data is now downloaded on your laptop, and you can see it in the layers panel on the right!
-
-From the Imagery menu item, select Palestine Open Maps 20k to see the base map. Feel free to switch to satellite imagery from today to compare and contrast the data.
-
-
-**STEP 3:** inspect some data
-
-Click around the features on the map, play with them. See what tags they have. 
-
-**STEP 4**: export the data
-
-In the layers panel to the right, you will see a layer titled "Data layer 1". Right click > save as, and save the data to a specific location of your choosing. 
-
-**STEP 5**: Open the data in QGIS
-
-Start a new project in QGIS, and drag and drop the file you just exported into the project. You will get a dialogue box asking you which type of data would you like to import. Select all the types and click OK. 
-
-Zoom in, pan around and see what data you have. It'll look a bit ugly, because everything has the same symbology. 
-
+<!-- this next step is a little confusing.... maybe adding some screen clippings to help illustrate? -->
 We'll make a map of the road network. Roads are always lines, so uncheck the multiline strings, multipolygons, and points layers in the left hand panel. 
 
-**STEP 6:** Colour the data
+### STEP 6   
+**Colour the data**  
 
-Right click on the lines layer > Properties > Symbology > Categorized 
+1. Right click on the lines layer > Properties > Symbology > Categorized 
 
+<!-- what about values? -->
 Value: highway
 
-Then classify (at the bottom), then apply. Your map will show each type of road in a different colour, randomly selected. You can edit the colour and the style of the line by double clicking on the respective line in its own category and modifying its parameters. 
+Click classify (at the bottom), then click apply. Your map will show each type of road in a different colour, randomly selected. You can edit the colour and the style of the line by double clicking on the respective line in its own category and modifying its parameters. 
 
 
 
