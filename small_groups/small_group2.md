@@ -1,5 +1,4 @@
 # Small Group Instructions  
-[day 2](../day2.md)
 
 Okay! Before heading into today's tutorial session, go around and briefly share:
 
