@@ -8,7 +8,7 @@ _Reminder: did you complete the [day 0 pre-work](day0.md) before today's session
 | 10:30-11am   | break    |
 | 11am-12pm   | [Creating Dynamic Digital Narratives with StoryMaps](workshop_materials/workshop2.md) with Andria Olson |
 | 12-12:15pm  | [Small Groups](small_groups/small_group2.md)  |   
-| 12:15pm-3:15pm |  [Tutorial/Co-working](co-coworking.md) | 
+| 12:15pm-3:15pm |  [Tutorial/Co-working](coworking.md) | 
 | 3:15pm-5pm   | break  |  
 | 5pm-6pm  | [“If Englande crie out, this Norumbega offreth the remedie”: American Imaginaries after Cartography](public_events.md#public-lecture-2)  by Moacir P. de Sá Pereira |
 
