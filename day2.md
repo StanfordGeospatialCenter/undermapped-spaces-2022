@@ -6,7 +6,7 @@ _Reminder: did you complete the [day 0 pre-work](day0.md) before today's session
 | --- | --- |
 | 9am-10:30am | [Creating Usable Data](curated_convos/cc1.md) with Belle Lipton |   
 | 10:30-11am   | break    |
-| 11am-12pm   | [Creating Dynamic Digital Narratives with StoryMaps](https://storymaps.arcgis.com/stories/d15f1045ffcb4fdea7672d1cafafdc12) with Andria Olson |
+| 11am-12pm   | [Creating Dynamic Digital Narratives with StoryMaps](workshop_materials/workshop2.md) with Andria Olson |
 | 12-12:15pm  | [Small Groups](small_groups/small_group2.md)  |   
 | 12:15pm-3:15pm |  [Tutorial/Co-working](co-coworking.md) | 
 | 3:15pm-5pm   | break  |  
