@@ -1,5 +1,7 @@
 # Gathering Data: Indian Indentured Laborers in Fiji[^2]  
 
+_Intended for my course on global South Asian diaspora, this tutorial provides an introduction to how to gather data from archival sources and format it in a way to use with digital mapping libraries and tools_
+
 ### An opening exercise
 
 Consider this quote:  
