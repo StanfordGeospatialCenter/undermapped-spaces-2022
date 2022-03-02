@@ -1,4 +1,4 @@
-# Gathering Data: Indian Indentured Laborers in Fiji[^2]
+# Gathering Data: Indian Indentured Laborers in Fiji[^2]  
 
 ### An opening exercise
 
