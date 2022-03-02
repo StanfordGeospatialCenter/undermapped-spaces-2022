@@ -2,21 +2,19 @@
 ## Why (Not) a Map?
 with Jess Cohen-Tanugi on [day 3](../day3.md)  
 
-### Recommended Reading
+#### Recommended Reading
 - [When a single map isn’t enough…](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/when-a-single-map-isnt-enough/) by Kenneth Field  
 - [What It Looks Like to Reconnect Black Communities Torn Apart by Highways](https://www.bloomberg.com/graphics/2021-urban-highways-infrastructure-racism/) by Rachael Dottle, Laura Bliss and Pablo Robles  
 - [The Rhetoric Behind the Coronavirus Propaganda Maps](https://medium.com/nightingale/the-rhetoric-behind-the-coronavirus-propaganda-maps-3cd6ec84aa63) by Mathieu Guglielmino  
 - [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368) by Sarah Leo  
 
-[day 0](../day0.md) | [day 1](../day1.md) | [day 2](../day2.md) | [day 3](../day3.md) | [day 4](../day4.md) | [day 5](../day5.md)  
+----- 
 
-return to [road map](../road_map.md)
-
-## Activity
+### Activity
 
 Imagine you have the following dataset for a project. Read the descriptions below and consider how you might go about visually exploring this dataset. The questions below are for breakout groups, then we will come together to create some charts, graphs, and maps together. 
 
-### Vesuvius dataset
+#### Vesuvius dataset
 
 Some Mt Vesuvius facts:
 - Mt Vesuvius is a volcano in Southern Italy, in the outskirts of Naples.
@@ -27,7 +25,7 @@ Some Mt Vesuvius facts:
   - it has a tendency toward violent, sudden explosions of the Plinian type, named for Pliny's description of Vesuvius
 - Harvard connections: In the 1800s, there was a guestbook where people climbing Mt. Vesuvius could sign their names. One particular guestbook, active from 1826-1829, ended up in Houghton Library, where a historian transcribed quite a few lines from the guestbook by hand. This data has since been cleaned even further for easier visualization.
 
-### Data Dictionary
+#### Data Dictionary
 
 | Variable | Definition | Notes |
 | -------- | ---------- | ----- |
@@ -49,7 +47,14 @@ Some Mt Vesuvius facts:
 | Co-ordinates latitude | Latitude of origin city or state | |
 | Co-ordinates longitude | Longitude of origin city or state | |
 
-### Group Questions
+#### Group Questions
 - Which variables are you most interested in exploring?
 - What questions do you have about those variables?
 - Can you think of a way/ways to begin to visually answer those questions? E.g., make a map showing how many people climbed Vesuvius from each Nationality; a chart (specify which kind) showing the how many climbers were men vs women, etc. 
+
+
+----
+
+[day 0](../day0.md) | [day 1](../day1.md) | [day 2](../day2.md) | [day 3](../day3.md) | [day 4](../day4.md) | [day 5](../day5.md)  
+
+return to [road map](../road_map.md)
