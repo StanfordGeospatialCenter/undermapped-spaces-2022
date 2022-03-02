@@ -42,10 +42,10 @@ The form includes space for details about the individual:
 **What other data does the form collect about each individual?**  
 **Does any of it surprise you?**  
 
-I'm curious about where recruiting was happening in 1910. I'm wondering indenture recruitment patterns correspond with areas hardest hit by the last famine.   
+I'm curious about where recruiting was happening in 1910. I'm wondering if indenture recruitment patterns correspond with areas hardest hit by the last famine.   
 <img alt="black and white map of India titled 'The Last Famine of the Nineteenth Century 1900'. Shading indicates that western half of India was in the famine zone. Darker shading indicates severity was worse in Sindh , Central Provinces, Berar, and Bombay Presidency" src="assets/data_gathering_and_curating-26c6e816.png" width="400" height="" >
 
-I hypothesize that young men are more vulnerable to indenture when they come from areas with a recent history of precarious food supplies.
+I hypothesize that young men are more vulnerable to indenture when they were from areas with a recent history of precarious food supplies.
 
 ## 2. Gathering Data  
 
@@ -54,7 +54,7 @@ I hypothesize that young men are more vulnerable to indenture when they come fro
 For Windows this may Notepad or TextEdit for Mac. DO NOT USE Microsoft Word. You can also use an editor like [Atom](https://atom.io/) if you already have it installed.
 
 #### 2.2 Begin transcribing data.  
-**Only** the **first line** of your text editor, enter the following data from the first page:  
+Typing **only** on the **first line** of your text editor, enter the following data from the first page:  
 - immigration pass number,  
 - the place of registration,   
 - name,  
@@ -200,6 +200,6 @@ You can click "**Draw a Map**" to see how these plots are laid on a map
 
 <img alt="Leaflet map with locations marked in red and map centered at 26.70592,79.68218 (near Gwalior)" src="assets/data_gathering_and_curating-ff7f58ff.png" width="" height="" >
 
-_Great job! In the next session we'll work on how to check these results, clean the data up, and add it to our existing csv file._[^2]
+_Great job! In the next session we'll work on how to check these results, clean the data up, and add it to our existing csv file._
 
 [^2]: This lesson adapts and expands on [Lindsey Passenger Wieck](https://lindseywieck.org/)'s tutorial using 1907 San Franisco phone books. 
