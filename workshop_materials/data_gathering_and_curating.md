@@ -159,9 +159,7 @@ Before proceeding, make sure your table looks like this:
 #### 3.3 Set up Geocoder.
 Go to [GPS Visualizer Geocoder](https://www.gpsvisualizer.com/geocoder/).
 
-Near the top, there is a green text box that alerts you that you'll need your own free API to use this tool. You can use mapquest or bing. DO NOT USE GOOGLE. Take a minute and follow the directions to get an API key and save it -- you will use it again. (I email it to myself with the subject line "bing API code")
-
-Near the top, there is a green text box that alerts you that you'll need your own free API to use this tool. You can use mapquest or bing. DO NOT USE GOOGLE. Take a minute and follow the directions to get an API key and save it -- you will use it again. (I email it to myself with the subject line "bing API code")
+Near the top, there is a green text box that alerts you that you'll need your own free API to use this tool. You can use mapquest or bing. DO NOT USE GOOGLE. Take a minute and follow the directions to get an API key and save it -- you will use it again. (I email it to myself with the subject line "bing API code").
 
 Once you have your code, copy and paste it into the API code area on GPS Visualizer. 
 
