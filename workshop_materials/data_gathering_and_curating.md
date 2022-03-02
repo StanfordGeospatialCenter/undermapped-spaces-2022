@@ -201,3 +201,8 @@ You can click "**Draw a Map**" to see how these plots are laid on a map
 _Great job! In the next session we'll work on how to check these results, clean the data up, and add it to our existing csv file._
 
 [^2]: This lesson adapts and expands on [Lindsey Passenger Wieck](https://lindseywieck.org/)'s tutorial using 1907 San Franisco phone books. 
+
+
+[day 0](../day0.md) | [day 1](../day1.md) | [day 2](../day2.md) | [day 3](../day3.md) | [day 4](../day4.md) | [day 5](../day5.md)  
+
+return to [road map](../road_map.md)
