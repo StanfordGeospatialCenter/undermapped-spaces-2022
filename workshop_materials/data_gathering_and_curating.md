@@ -51,22 +51,22 @@ I hypothesize that young men are more vulnerable to indenture when they come fro
 
 For Windows this may Notepad or TextEdit for Mac. DO NOT USE Microsoft Word. You can also use an editor like [Atom](https://atom.io/) if you already have it installed.
 
-#### 2.2 Begin transcribing data.
+#### 2.2 Begin transcribing data.  
 **Only** the **first line** of your text editor, enter the following data from the first page:  
-- immigration pass number, 
-- the place of registration, 
-- name, 
-- father's name, 
-- age, 
-- caste, 
-- district
+- immigration pass number,  
+- the place of registration,   
+- name,  
+- father's name,  
+- age,   
+- caste,   
+- district  
 
-If it is difficult to make out any letters or words, that's okay!
+If it is difficult to make out any letters or words, that's okay!  
 
-It can be hard reading someone else's handwriting, especially from a different time period and region. Learning to read different old handwriting is called [paleography](https://www.nationalarchives.gov.uk/palaeography/). Different languages, unfamiliar names/terms, spelling variations, and abbreviations can all make it more tricky.  Check out this table showing [handwritten nicknames and appreviations](https://www.startresearching.com/handwriting) for men's names in the 1790 US Census made by geneaologist Sherri Mastrangelo:
+It can be hard reading someone else's handwriting, especially from a different time period and region. Learning to read different old handwriting is called [paleography](https://www.nationalarchives.gov.uk/palaeography/). Different languages, unfamiliar names/terms, spelling variations, and abbreviations can all make it more tricky.  Check out this table showing [handwritten nicknames and appreviations](https://www.startresearching.com/handwriting) for men's names in the 1790 US Census made by geneaologist Sherri Mastrangelo:  
 <img alt="Images of common handwritten versions of the following men's names from the 18th century: Benjamin, Joseph, Daniel, Nathaniel, Ebenezer, Nehemiah, Edmund,, Phineas, Ephraim, Samiel, Ezekiel, Thomas, Johnathon, Timothy, Jonathon, William, Junior, William." src="assets/data_gathering_and_curating-e1e930b5.png" width="400" height="" >
 
-After time, even printed texts may become distorted or faded. And in this case, we aren't even examing the original documents. We are looking at a digital duplicate of a microfilm duplicate.[^1] 
+After time, even printed texts may become distorted or faded. And in this case, we aren't even examing the original documents. We are looking at a digital duplicate of a microfilm duplicate.[^1]  
 
 [^1]: The original documents are held in Suva at the [National Archives of Fiji](https://en.wikipedia.org/wiki/National_Archives_of_Fiji). In 1991, microfilm duplicates were made and stored at the [National Library of Australia](https://www.nla.gov.au/)... who digitized them recently, allowing researchers like us to access them anywhere with an internet connection! Check out this short article to learn more about microfilm and microfiche: ["Microfiche Was the Dawn of Multimedia Research"](https://edtechmagazine.com/higher/article/2017/05/microfiche-was-dawn-multimedia-research) 
 
