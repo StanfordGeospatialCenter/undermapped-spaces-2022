@@ -21,3 +21,7 @@ return to [road map](road_map.md)
 [^1]: All times given in Pacific Standard (GMT -8)
 [^2]: [Recommended readings](curated_convos/cc2.md#recommended-reading) from Jess  
 [^3]: [Recommended readings](workshop_materials/workshop3.md) from Moacir  
+
+
+
+.
