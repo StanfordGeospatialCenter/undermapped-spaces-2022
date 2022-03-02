@@ -22,11 +22,11 @@ Consider:
 If you haven't yet done so, download the National Library of Australia's file of [Indian immigration passes for the Sangola V](https://nla.gov.au/nla.obj-2827481662), which arrived in Fiji on March 7, 1910.
     
 #### 1.2 Let's briefly familiarize ourselves with the format. 
-Each page is a single pass for an individual traveling from India to Fiji. 
+Each page is a single pass for an individual traveling from India to Fiji.   
 <img alt="Black and white image of colonial immigration form 44: Man's Immigration Pass dated Jan 27, 1910, Calcutta" src="assets/data_gathering_and_curating-18ed868e.png" width="300" height="">
 
 At the top of the page, someone has handwritten the immigration pass number.  
-The very first one here is immigration pass "40077"
+The very first one here is immigration pass "40077"  
 <img alt="magnification of top margin, where '40077' is handwritten twice by two different people" src="assets/data_gathering_and_curating-00491c00.png" width="600" height="" >
 
 The form includes space for details about the individual:  
@@ -37,10 +37,10 @@ The form includes space for details about the individual:
 
 <img alt="magnification of section of form for fields: name, father's name, age, and caste. Handwritten answers are to the left of each field, with first attempts for both name and father's name crossed out" src="assets/data_gathering_and_curating-719ddfa7.png" width="600" height="" >
 
-**What other data does the form collect about each individual?** 
-**Does any of it surprise you?**
+**What other data does the form collect about each individual?**  
+**Does any of it surprise you?**  
 
-I'm curious about where recruiting was happening in 1910. I'm wondering indenture recruitment patterns correspond with areas hardest hit by the last famine. 
+I'm curious about where recruiting was happening in 1910. I'm wondering indenture recruitment patterns correspond with areas hardest hit by the last famine.   
 <img alt="black and white map of India titled 'The Last Famine of the Nineteenth Century 1900'. Shading indicates that western half of India was in the famine zone. Darker shading indicates severity was worse in Sindh , Central Provinces, Berar, and Bombay Presidency" src="assets/data_gathering_and_curating-26c6e816.png" width="400" height="" >
 
 I hypothesize that young men are more vulnerable to indenture when they come from areas with a recent history of precarious food supplies.
