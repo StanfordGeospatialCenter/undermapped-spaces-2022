@@ -11,8 +11,7 @@
 | 12:20pm-3:15pm |  [Tutorial/Co-working](coworking.md) | 
 | 3:15pm-5pm   | break  |  
 | 5pm-6pm  | [Community ownership and open data: where is the balance?](public_events.md#public-lecture-3) by Majd Al-Shihabi |
-| Pre-work for tomorrow   | <ul><li>Download and install [JOSM](https://josm.openstreetmap.de/) and [QGIS](https://qgis.org/en/site/forusers/download.html) (space requirement: 203MB)</li><li>Try to find an external/physical computer mouse instead of the one on your laptop.</li><ul> |
-
+| Pre-work for tomorrow   | <ul><li>Download and install [JOSM](https://josm.openstreetmap.de/) and [QGIS](https://qgis.org/en/site/forusers/download.html) (space requirement: 203MB)</li><li>Try to find an external/physical computer mouse instead of the one on your laptop.</li></ul> |
 
 [day 0](day0.md) | [day 1](day1.md) | [day 2](day2.md) | day 3 | [day 4](day4.md) | [day 5](day5.md)  
 
@@ -21,7 +20,3 @@ return to [road map](road_map.md)
 [^1]: All times given in Pacific Standard (GMT -8)
 [^2]: [Recommended readings](curated_convos/cc2.md#recommended-reading) from Jess  
 [^3]: [Recommended readings](workshop_materials/workshop3.md) from Moacir  
-
-
-
-.
