@@ -35,14 +35,15 @@ Your should submit your artifact and brief write-up on the last day of the works
 
 ## Examples  
 We encourage you to check out some of the examples and resources below.  
-2
-[Progressive Pedagogies for Humanities Research and Citation Vol. 1 (2021)](https://journals.library.columbia.edu/index.php/citationalpractice/issue/view/782)
 
-Marisa Parham's curated collection of artifacts related to the keyword [Hashtag](https://digitalpedagogy.hcommons.org/keyword/Hashtag). Parham's collection is part of a larger collection of resources: [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/). 
+- [Progressive Pedagogies for Humanities Research and Citation Vol. 1 (2021)](https://journals.library.columbia.edu/index.php/citationalpractice/issue/view/782)  
 
-Eugenia Zuroski's [‘Where Do You Know From?’](https://maifeminism.com/where-do-you-know-from-an-exercise-in-placing-ourselves-together-in-the-classroom/)
+- Marisa Parham's curated collection of artifacts related to the keyword [Hashtag](https://digitalpedagogy.hcommons.org/keyword/Hashtag). Parham's collection is part of a larger collection of resources: [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/). 
 
-
+- Eugenia Zuroski's [‘Where Do You Know From?’](https://maifeminism.com/where-do-you-know-from-an-exercise-in-placing-ourselves-together-in-the-classroom/)  
+  
+  
+**You can even find excellent examples on Twitter!**  
 [^1]: The Under-Mapped organizers are grateful to Diana Newby and Cat Lambert of [Teaching Citational Practice: Critical Feminist Approaches](https://journals.library.columbia.edu/index.php/citationalpractice/about), whose October 2021 CIRTL workshop served as an inspiration for integrating teaching artifacts into a workshop's goals.
 
 <img alt="Cate Denial @cjdenial Today in class we did a wonderful exercise I learned from @Think_History: half the students sat with their backs to me, and half facing me. I laid out a tableau on the desk at the front of class. (image in tweet: Today in class we did a wonderful exercise I learned from @Think_History: half the students sat with their backs to me, and half facing me. I laid out a tableau on the desk at the front of class.) 11:32 AM · Feb 14, 2022·Twitter Web App18 Retweets7 Quote Tweets100 Likes" src="assets/teaching-artifacts-7cc87cd8.png" width="" height="" >
