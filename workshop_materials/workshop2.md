@@ -2,8 +2,8 @@
 ## Creating Dynamic Digital Narratives with StoryMaps   
 with Andria Olson on [day 2](../day2.md)  
 
-- [Creating Dynamic Digital Narratives with StoryMaps](https://storymaps.arcgis.com/stories/d15f1045ffcb4fdea7672d1cafafdc12)[^1]
--[ Treat yourself to basic Georeferencing in QGIS](https://storymaps.arcgis.com/stories/e8d1d13ca8894643970f315d16010ee9) by David Medeiros
+- [Creating Dynamic Digital Narratives with StoryMaps](https://storymaps.arcgis.com/stories/d15f1045ffcb4fdea7672d1cafafdc12)[^1]  
+- [ Treat yourself to basic Georeferencing in QGIS](https://storymaps.arcgis.com/stories/e8d1d13ca8894643970f315d16010ee9) by David Medeiros
 
 
 [^1]: Did you remember to complete the [day 0](../day0.md) independent tutorial [What You Need to Know for the ArcGIS StoryMaps Portion](https://storymaps.arcgis.com/stories/9781012567c44f74b049dacfcf93f070) by Andria Olson 
